@@ -4,3 +4,4 @@ Licenses for each document are specified within the files.
 
 # Documents
 - [BitTorrentSpecification](/BitTorrentSpecification/en.md)
+- [BEPs](/BEPs)
